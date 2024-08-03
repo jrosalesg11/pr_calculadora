@@ -1,0 +1,7 @@
+Para usar la calculadora, sigue estos pasos básicos:
+
+Realiza sumas presionando el botón "+".
+Resta los números utilizando el botón "-".
+Divide números o convierte fracciones a decimales utilizando el boton "/".
+Multiplica números utilizando el boton "*".
+Presiona el botón "=" para obtener la respuesta
